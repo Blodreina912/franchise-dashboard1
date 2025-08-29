@@ -22,5 +22,5 @@ A modern React dashboard for franchise management and document tracking.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/franchise-dashboard.git
+   git clone https://github.com/Blodreina912/franchise-dashboard1
    cd franchise-dashboard
